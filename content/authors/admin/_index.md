@@ -28,6 +28,7 @@ interests:
   - Artificial Intelligence
   - Internet of Things
   - Wireless Sensor Networks
+{style="text-align: justify; font-family: 'Open Sans', sans-serif; font-size: 14px; "}
 
 # Education to show in About widget
 # education:
