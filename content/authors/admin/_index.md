@@ -24,11 +24,10 @@ organizations:
 # bio: My research interests include Internet of Things, Mobile Computing and Wireless Sensor Networks.
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Internet of Things
-  - Wireless Sensor Networks
-{style="text-align: justify; font-family: 'Open Sans', sans-serif; font-size: 14px; "}
+# interests:
+#   - Artificial Intelligence
+#   - Internet of Things
+#   - Wireless Sensor Networks
 
 # Education to show in About widget
 # education:
