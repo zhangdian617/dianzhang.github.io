@@ -14,7 +14,7 @@ sections:
 
   - block: collection
     content:
-      title: Conferences
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -22,18 +22,5 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
-
-      title: Journals
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '1'
-      view: citation   
+        exclude_featured: true   
 ---
