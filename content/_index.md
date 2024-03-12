@@ -23,7 +23,7 @@ sections:
         folders:
           - publication
         exclude_featured: true
-    content:
+
       title: Journals
       text: |-
         {{% callout note %}}
