@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Conferences
 cms_exclude: true
 
 # View.
@@ -13,7 +13,8 @@ view: 4
 banner:
   caption: ''
   image: ''
+  
+[**PDF**](paper/23-sensys-xgait.pdf)
+
+
 ---
-
-
-**full text**
