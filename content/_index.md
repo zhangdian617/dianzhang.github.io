@@ -17,9 +17,9 @@ sections:
       title: Publications
       text: |-
         Conference Papers
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+#        {{% callout note %}}
+#        Quickly discover relevant content by [filtering publications](./publication/).
+#        {{% /callout %}}
       filters:
         folders:
           - publication
