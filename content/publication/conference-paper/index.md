@@ -1,5 +1,3 @@
-**Conference Papers**
-
 ---
 title: 'FGRL-Net: Fine-Grained Personalized Patient Representation Learning for Clinical Risk Prediction Based on EHRs'
 
