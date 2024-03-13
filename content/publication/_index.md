@@ -13,8 +13,4 @@ view: 4
 banner:
   caption: ''
   image: ''
-  
-[**PDF**](paper/23-sensys-xgait.pdf)
-
-
 ---
