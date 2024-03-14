@@ -1,6 +1,6 @@
 ---
-title: ''
-cms_exclude: true
+# title: ''
+# cms_exclude: true
 
 # View.
 #   1 = List
@@ -10,9 +10,9 @@ cms_exclude: true
 view: 4
 
 # Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+# banner:
+#   caption: ''
+#   image: ''
 ---
 
 <font size=5> **Conference Papers** </font>
