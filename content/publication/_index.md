@@ -1,5 +1,5 @@
 ---
-title: Conferences
+title: ''
 cms_exclude: true
 
 # View.
