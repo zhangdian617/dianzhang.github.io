@@ -13,7 +13,7 @@ sections:
       username: admin
 
   - block: publication #collection
-    id: publication
+    id: pub
     content:
       title: Publications
 #      text: |-
