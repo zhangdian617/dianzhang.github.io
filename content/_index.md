@@ -21,9 +21,9 @@ sections:
       #   3 = Card
       #   4 = Citation
       view: 4
-      text: |-
-        <font size=5> **Conference Papers** </font>
-        <font size=5> **Journal Papers** </font>
+#      text: |-
+#        <font size=5> **Conference Papers** </font>
+#        <font size=5> **Journal Papers** </font>
 #        [**PDF**](paper/23-sensys-xgait.pdf)
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
