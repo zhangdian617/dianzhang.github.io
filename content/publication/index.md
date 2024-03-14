@@ -1,6 +1,6 @@
 ---
-# title: ''
-# cms_exclude: true
+ title: ''
+ cms_exclude: true
 
 # View.
 #   1 = List
