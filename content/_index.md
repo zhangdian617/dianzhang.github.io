@@ -16,7 +16,9 @@ sections:
     content:
       title: Publications
       text: |-
-#        <font size=5> **Conference Papers** </font>
+        {{% callout note %}}
+        <font size=5> **Conference Papers** </font>
+        {{% /callout %}}
 #        [**PDF**](paper/23-sensys-xgait.pdf)
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
