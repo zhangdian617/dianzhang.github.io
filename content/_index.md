@@ -13,6 +13,7 @@ sections:
       username: admin
 
   - block: collection
+    id: collection
     content:
       title: Publications
       # View.
