@@ -15,6 +15,12 @@ sections:
   - block: collection
     content:
       title: Publications
+      # View.
+      #   1 = List
+      #   2 = Compact
+      #   3 = Card
+      #   4 = Citation
+      view: 4
       text: |-
         <font size=5> **Conference Papers** </font>
         <font size=5> **Journal Papers** </font>
