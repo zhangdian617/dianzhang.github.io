@@ -12,7 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: publication #collection
+  - block: collection #collection
     id: pub
     content:
       title: Publications
