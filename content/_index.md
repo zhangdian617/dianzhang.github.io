@@ -20,9 +20,9 @@ sections:
 #        <font size=5> **Conference Papers** </font>
 #        <font size=5> **Journal Papers** </font>
 #        [**PDF**](paper/23-sensys-xgait.pdf)
-#        {{% callout note %}}
-#        Quickly discover relevant content by [filtering publications](./publication/).
-#        {{% /callout %}}
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
       filters:
         folders:
           - publication
