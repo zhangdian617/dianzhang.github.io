@@ -16,7 +16,7 @@ sections:
     id: pub
     content:
       title: Publications
-#      text: |-
+      text: |-
 #        <font size=5> **Conference Papers** </font>
 #        <font size=5> **Journal Papers** </font>
 #        [**PDF**](paper/23-sensys-xgait.pdf)
