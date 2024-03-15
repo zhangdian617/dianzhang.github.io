@@ -8,11 +8,10 @@
 <div class="universal-wrapper">
   <div class="row">
     <div class="col-lg-12">
-
       {{ with .Content }}
       <div class="article-style">{{ . }}</div>
       {{ end }}
-
+      <div class="article-style">{{ Conference Papers }}</div>
       {{/* Array of distinct years. */}}
       {{ range .Pages.ByDate.Reverse }}
         {{ $year := print (.Date.Format "2006") }}
