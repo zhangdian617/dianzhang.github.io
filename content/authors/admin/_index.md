@@ -51,7 +51,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:zhangd@szu.edu.cn
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack  graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=tiE0IDMAAAAJ&view_op=list_works&sortby=pubdate
 #  - icon: github
