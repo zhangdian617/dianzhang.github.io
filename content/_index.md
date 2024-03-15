@@ -27,7 +27,7 @@ sections:
         folders:
           - publication
         exclude_featured: true   
-  design:
+    design:
       columns: '1'
       view: citation
 ---
