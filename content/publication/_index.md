@@ -14,5 +14,3 @@ view: 4
 #   caption: ''
 #   image: ''
 ---
-
-# <font size=5> **Conference Papers** </font>
