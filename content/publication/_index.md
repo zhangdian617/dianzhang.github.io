@@ -15,4 +15,3 @@ view: 1
 #  image: ''
 ---
 
-** Conferences **
