@@ -12,6 +12,8 @@
       {{ with .Content }}
       <div class="article-style">{{ . }}</div>
       {{ end }}
+
+      <p>Conferences</p>
       
       {{/* Array of distinct years. */}}
       {{ range .Pages.ByDate.Reverse }}
