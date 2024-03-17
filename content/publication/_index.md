@@ -15,9 +15,5 @@ view: 1
 #  image: ''
 ---
 
-** Conference Papers **
 
-
-
-** Journal Papers **
 
