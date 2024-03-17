@@ -52,6 +52,11 @@
       <div class="form-row mb-4">
         <div class="col-auto">
             <h2> Conferences </h2>
+          
+            <div class="grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get "pubtype" }} year-{{ .Date.Format "2006" }}">
+            {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+            </div>
+          
         </div>
 
         <div class="col-auto">
@@ -59,7 +64,7 @@
         </div>
       </div>
 
-      <div id="container-publications">
+<!--       <div id="container-publications">
         
         {{ range $index, $item := .Pages.ByDate.Reverse }}
 
@@ -74,7 +79,8 @@
         </div>
 
         {{ end }}
-      </div>
+      </div> 
+-->
 
     </div>
   </div>
