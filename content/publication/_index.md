@@ -8,14 +8,18 @@ sections:
     filters:
         folders:
           - conference
+        exclude_featured: true
     design:
       columns: '1'
+      view: list
   - block: summary
     id: journal
     title: Journal Papers
     filters:
         folders:
-          - iournal
+          - journal
+        exclude_featured: true
     design:
       columns: '1'
+      view: list
 ---
