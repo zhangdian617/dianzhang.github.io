@@ -10,10 +10,12 @@
     <div class="col-lg-12">
 
       <h2> Conference Papers </h2>
-      {{ with .Content }}
-      <div class="article-style">{{ . }}</div>
-      {{ end }}
-      
+
+      <div id="container-publications">
+        {{ with .Content }}
+        <div class="article-style">{{ . }}</div>
+        {{ end }}
+      </div>
       <h2> Journal Papers </h2>
 
     </div>
