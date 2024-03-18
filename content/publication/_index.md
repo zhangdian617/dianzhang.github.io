@@ -16,7 +16,7 @@ view: 1
 ---
 
 
-<font size=5> **Refereed Conference Paper** </font>
+<font size=5> **Conference Papers** </font>
 
 <font size=2>
 </font>
