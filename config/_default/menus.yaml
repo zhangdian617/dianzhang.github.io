@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: 'https://zhangdian617.github.io/site/publication'
+    url: 'publication/'
     weight: 20
 
     
