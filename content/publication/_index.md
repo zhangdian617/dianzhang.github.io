@@ -1,25 +1,16 @@
 ---
-title: Publications
+ title: Conference Papers
+ cms_exclude: true
 
-sections:
-  - block: summary
-    id: conference
-    title: Conference Papers
-    filters:
-        folders:
-          - conference
-        exclude_featured: true
-    design:
-      columns: '1'
-      view: list
-  - block: summary
-    id: journal
-    title: Journal Papers
-    filters:
-        folders:
-          - journal
-        exclude_featured: true
-    design:
-      columns: '1'
-      view: list
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation
+view: 1
+
+# Optional header image (relative to `static/media/` folder).
+# banner:
+#  caption: ''
+#  image: ''
 ---
