@@ -1,16 +1,30 @@
 ---
- title: Conference Papers
- cms_exclude: true
+# Leave the homepage title empty to use the site title
+title: ''
+date: 2022-10-24
+type: landing
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 1
+sections:
+  - block: about.biography
+    id: about
+    content:
+      title: Biography
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
 
-# Optional header image (relative to `static/media/` folder).
-# banner:
-#  caption: ''
-#  image: ''
+  - block: summary #collection
+    id: pub
+    content:
+      title: Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication/conference-paper
+        exclude_featured: true   
+    design:
+      columns: '1'
+      view: list
 ---
