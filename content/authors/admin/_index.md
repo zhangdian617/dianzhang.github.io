@@ -3,7 +3,7 @@
 title: Dian Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: 张滇
+# name_pronunciation: 张滇
 
 # Full name (for SEO)
 first_name: Dian
