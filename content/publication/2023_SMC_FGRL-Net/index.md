@@ -15,8 +15,6 @@ authors:
 date: '2023-10-04'
 doi: '10.1109/SMC53992.2023.10393910'
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,7 +22,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2023 IEEE International Conference on Systems, Man, and Cybernetics*
+publication: In *IEEE International Conference on Systems, Man, and Cybernetics*
 publication_short: In *SMC*
 
 abstract: Personalized patient representation learning (PPRL) is a critical element in clinical risk prediction. It aims to obtain a complete portrait of each patient based on Electronic Health Records (EHR). Although existing works have achieved remarkable progress in healthcare prediction, there are still three major issues. First, feature correlation is crucial for risk prediction, but it has not yet been fully exploited by existing works. Second, variation pattern of dynamic feature contains useful information about patient's physical status, but adaptive pattern recognition is still a challenge. Third, existing works usually adopt a two-stage embedding process to process each dimension of the EHR data. However, some useful low-level information for PPRL will be lost. To address these issues, in this paper, we propose a fine-grained PPRL architecture named FG RL- N et for clinical risk prediction based on EHR. Specifically, we propose a Medical Feature Correlation Detection Module (FCM) to effectively learn the feature correlations for each patient and a Temporal Variation Pattern Recognition Module (TVM) to effectively detect the variation patterns of each dynamic feature. Moreover, we design a Fine-Grained Representation Mechanism (FGRM) to preserve the low-level information (from both feature and visit dimensions) useful for risk prediction. In addition, in the stage of data preprocessing, We utilize generic medical classification knowledge to classify numerical dynamic data. We conduct the in-hospital mortality experiment and the decompensation experiment on a real-world dataset. The experiment results show that the FGRL-Net outperforms state-of-the-art approaches.
