@@ -12,7 +12,7 @@ authors:
 
 
 date: '2022-11-01'
-doi: ''
+doi: 'https://doi.org/10.1111/poms.13816'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
