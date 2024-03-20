@@ -40,6 +40,4 @@ featured: true
 
 url_pdf: '2023_IPM_SmartRolling.pdf'
 
-
 ---
-
