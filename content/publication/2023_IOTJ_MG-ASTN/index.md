@@ -19,7 +19,7 @@ doi: '10.1109/JIOT.2023.3281648'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['conference']
+publication_types: ['journal']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2023 IEEE Internet of Things Journal*
