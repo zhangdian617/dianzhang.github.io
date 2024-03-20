@@ -10,7 +10,6 @@ authors:
   - Peng Ji
   - Tao Gu
 
-
 date: '2022-11-14'
 doi: 'https://doi.org/10.1007/978-3-031-34776-4_28'
 
@@ -33,6 +32,5 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '2022_Mobiquitous_RF-Eye'
-
+url_pdf: '2022_Mobiquitous_RF-Eye.pdf'
 ---
