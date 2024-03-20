@@ -21,7 +21,7 @@ doi: 'https://doi.org/10.1007/s13042-022-01710-8'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['jornal']
+publication_types: ['journal']
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Journal of Machine Learning and Cybernetics*
