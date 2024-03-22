@@ -23,7 +23,7 @@ publication_types: ['journal']
 publication: In *Decision Support Systems*
 publication_short: In *DSS*
 
-abstract: Cryptocurrency price forecasting plays an important role in financial markets. Traditional approaches face two challenges: (1) it is difficult to ascertain the influential factors related to price forecasting
+abstract: Cryptocurrency price forecasting plays an important role in financial markets. Traditional approaches face two challenges, (1) it is difficult to ascertain the influential factors related to price forecasting; and (2) due to the 24/7 trading policy, cryptocurrencies’ prices face very large fluctuations, thus weakening the forecasting power of traditional models. To address these issues, we focus on Bitcoin and identify the influential factors related to its price forecasting from the perspective of underlying blockchain transactions. We then propose a price forecasting model WT-CATCN, which leverages Wavelet Transform (WT) and Casual Multi-Head Attention (CA) Temporal Convolutional Network (TCN), to forecast cryptocurrency prices. Our model can capture important positions of input sequences and model the correlations among different data features. Using real-world Bitcoin trading data, we test and compare WT-CATCN with other state-of-the-art price forecasting models. The experiment results show that our model improves the price forecasting performance by 25%.
 tags: []
 
 # Display this page in the Featured widget?
