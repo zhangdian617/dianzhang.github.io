@@ -19,13 +19,13 @@ sections:
     content:
       title: Publications
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+#        {{% callout note %}}
+#        Quickly discover relevant content by [filtering publications](./publication/).
+#        {{% /callout %}}
       filters:
         folders:
           - publication
-        exclude_featured: false   
+        exclude_featured: true   
     design:
       columns: '1'
       view: list
