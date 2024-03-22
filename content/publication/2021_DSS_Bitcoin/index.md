@@ -23,7 +23,7 @@ publication_types: ['journal']
 publication: In *Decision Support Systems*
 publication_short: In *DSS*
 
-abstract: 
+abstract: Cryptocurrency price forecasting plays an important role in financial markets. Traditional approaches face two challenges: (1) it is difficult to ascertain the influential factors related to price forecasting
 tags: []
 
 # Display this page in the Featured widget?
