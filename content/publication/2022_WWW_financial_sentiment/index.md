@@ -1,5 +1,5 @@
 ---
-title: 'Leveraging statistical information in fine-grained financial sentiment analysis
+title: 'Leveraging statistical information in fine-grained financial sentiment analysis'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -38,4 +38,5 @@ featured: true
 #   url: http://example.org
 
 url_pdf: '2022_WWW_financial_sentiment.pdf'
+
 ---
