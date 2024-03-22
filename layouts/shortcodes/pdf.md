@@ -4,4 +4,5 @@
   {{- .Scratch.Set "path" (slicestr (.Scratch.Get "path") 1) -}}
 {{- end -}}
 {{- .Scratch.Add "basedir" (.Scratch.Get "path") -}}
+# Returns an absolute URL with a language prefix, if any.
 {{- .Scratch.Get "basedir" | absLangURL -}}
