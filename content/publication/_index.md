@@ -20,7 +20,7 @@ banner:
 
 <font size=2>
 
-1. KaKit Chio, Wenhao Zhu, Lihua He, Dian Zhang, Xu Yang and Wuman Luo, "FGRL-Net: Fine-Grained Personalized Patient Representation Learning for Clinical Risk Prediction Based on EHRs", IEEE International Conference on Systems, Man, and Cybernetics (SMC), Honolulu, Oahu, HI, USA, 01-04 October 2023. [**Download**]({{< pdf "2023_SMC_FGRL-Net,pdf" >}})
+1. KaKit Chio, Wenhao Zhu, Lihua He, Dian Zhang, Xu Yang and Wuman Luo, "FGRL-Net: Fine-Grained Personalized Patient Representation Learning for Clinical Risk Prediction Based on EHRs", IEEE International Conference on Systems, Man, and Cybernetics (SMC), Honolulu, Oahu, HI, USA, 01-04 October 2023. [**Download**]({{< pdf "2023_SMC_FGRL-Net/2023_SMC_FGRL-Net.pdf" >}})
 1. Weiling Zheng, Dian Zhang, Peng Ji, Tao Gu, "RF-Eye: Training-Free Object Shape Detection Using Directional RF Antenna", International Conference on Mobile and Ubiquitous Systems: Computing, Networking, and Services (Mobiquitous), pp. 535-555. Cham: Springer Nature Switzerland, 14 Novermber 2022. [**Download**]({{< pdf "2022_Mobiquitous_RF-Eye/2022_Mobiquitous_RF-Eye.pdf" >}})
 
 </font>
