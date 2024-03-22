@@ -7,7 +7,7 @@
 {{- .Scratch.Add "basedir" (.Scratch.Get "path") -}}
 # Add folder name
 {{- .Scratch.Add "basedir" "/" -}}
-{{- .Scratch.Add "basedir" (.Scratch.Get "path") -}}
-{{- .Scratch.Add "basedir" ".pdf" -}}
+# {{- .Scratch.Add "basedir" (.Scratch.Get "path") -}}
+# {{- .Scratch.Add "basedir" ".pdf" -}}
 # Returns an absolute URL with a language prefix, if any.
 {{- .Scratch.Get "basedir" | absLangURL -}}
