@@ -20,8 +20,10 @@ banner:
 
 <font size=2>
 
-1. KaKit Chio, Wenhao Zhu, Lihua He, Dian Zhang, Xu Yang and Wuman Luo, "FGRL-Net: Fine-Grained Personalized Patient Representation Learning for Clinical Risk Prediction Based on EHRs", IEEE International Conference on Systems, Man, and Cybernetics (SMC), Honolulu, Oahu, HI, USA, 01-04 October 2023. [**Download**]({{< pdf "2023_SMC_FGRL-Net" >}})
-1. Weiling Zheng, Dian Zhang, Peng Ji, Tao Gu, "RF-Eye: Training-Free Object Shape Detection Using Directional RF Antenna", International Conference on Mobile and Ubiquitous Systems: Computing, Networking, and Services (Mobiquitous), pp. 535-555. Cham: Springer Nature Switzerland, 14 Novermber 2022. [**Download**]({{< pdf "2022_Mobiquitous_RF-Eye" >}})
+1. KaKit Chio, Wenhao Zhu, Lihua He, Dian Zhang, Xu Yang and Wuman Luo. "FGRL-Net: Fine-Grained Personalized Patient Representation Learning for Clinical Risk Prediction Based on EHRs", IEEE International Conference on Systems, Man and Cybernetics (SMC), Honolulu, Oahu, HI, USA, 01-04 October 2023. [**Download**]({{< pdf "2023_SMC_FGRL-Net" >}})
+1. Weiling Zheng, Dian Zhang, Peng Ji and Tao Gu. "RF-Eye: Training-Free Object Shape Detection Using Directional RF Antenna", International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (Mobiquitous), pp. 535-555. Cham: Springer Nature Switzerland, 14 Novermber 2022. [**Download**]({{< pdf "2022_Mobiquitous_RF-Eye" >}})
+2. Zhihan Fang, Guang Yang, Dian Zhang, Xiaoyang Xie, Guang Wang, Yu Yang, Fan Zhang and Desheng Zhang. "MoCha: Large-scale driving pattern characterization for usage-based insurance", Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), New York, NY, USA, 2849–2857, 14 August 2021. [**Download**]({{< pdf "2021_KDD_MoCha" >}})
+3. 
 
 </font>
 
@@ -40,5 +42,6 @@ banner:
 1. Haizhou Guo, Dian Zhang, Siyuan Liu, Lei Wang and Ye Ding. "Bitcoin price forecasting: A perspective of underlying blockchain transactions", Decision Support Systems (DSS), vol. 151, pp. 113650,  December 2011.  [**Download**]({{< pdf "2021_DSS_Bitcoin" >}})
 1. Dian Zhang, Zexiong Liao, Wen Xie, Xiaofeng Wu, Haoran Xie, Jiang Xiao and Landu Jiang. "Fine-grained and real-time gesture recognition by using IMU sensors", IEEE Transactions on Mobile Computing (TMC), vol. 22, no. 4, pp. 2177-2189, 30 November 2021. [**Download**]({{< pdf "2021_TMC_Gesture_IMU" >}})
 1. Dian Zhang, Rujun Zhang, Haizhou Guo, Peng Xiang and Xiaonan Guo. "Cross-Technology Localization: Leveraging Commodity WiFi to Localize Non-WiFi Device", KSII Transactions on Internet and Information Systems (TIIS), vol. 15, no. 11, 1 Novermber 2021. [**Download**]({{< pdf "2021_KSII_Localization_wifi" >}})
+2. 
   
 </font>
