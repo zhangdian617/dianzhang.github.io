@@ -51,5 +51,7 @@ banner:
 5. Yongpan Zou, Dan Wang, Shicong Hong, Rukhsana Ruby, Dian Zhang and Kaishun Wu. "A Low-Cost Smart Glove System for Real-Time Fitness Coaching", IEEE Internet of Things Journal (IOTJ), vol. 7, no. 8, pp. 7377-7391, 24 March 2020. [**Download**]({{< pdf "2020_IOTJ_Glove_Fitness" >}})
 6. Peng Xiang, Peng Ji and Dian Zhang. "Enhance RSS-Based Indoor Localization Accuracy by Leveraging Environmental Physical Features", Wireless Communications and Mobile Computing, Article ID 8956757, 09 Jul 2018.  [**Download**]({{< pdf "2018_WCMC_Enhance_RSS" >}})
 7. Yunhuai Liu, Dian Zhang, Xiaonan Guo, Min Gao, Zhong Ming, Lei Yang and Lionel M Ni. "RSS-Based Ranging by Leveraging Frequency Diversity to Distinguish the Multiple Radio Paths", IEEE Transactions on Mobile Computing (TMC), vol. 16, no. 4, pp. 1121-1135, 09 June 2016. [**Download**]({{< pdf "2016_TMC_RSS-Based" >}})
+8. Rui Mao, Peng Xiang, Dian Zhang. "Precise transceiver-free localization in complex indoor environment", China Communications, vol. 13, no. 5, pp. 28-37, May 2016. [**Download**]({{< pdf "2016_CC_localization" >}})
+9. Xuan Yang, Dian Zhang, Shuiyong Yao and Bo Wang. "A Fast Algorithm to Estimate Inverse Consistent Image Transformation based on Corresponding Landmarks", Computerized Medical Imaging and Graphics, vol. 15, pp. 84-98, October 2015. [**Download**]({{< pdf "2015_CMIG_Image_Landmarks" >}})
   
 </font>
