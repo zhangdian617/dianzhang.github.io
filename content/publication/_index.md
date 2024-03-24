@@ -25,6 +25,7 @@ banner:
 2. Zhihan Fang, Guang Yang, Dian Zhang, Xiaoyang Xie, Guang Wang, Yu Yang, Fan Zhang and Desheng Zhang. "MoCha: Large-scale Driving Pattern Characterization for Usage-based Insurance", Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), New York, NY, USA, 14 August 2021. [**Download**]({{< pdf "2021_KDD_MoCha" >}})
 3. Bing He, Xiaolin Chen, Dian Zhang, Siyuan Liu, Dawei Han and Lionel M Ni. "PBE: Driver Behavior Assessment Beyond Trajectory Profiling", Machine Learning and Knowledge Discovery in Databases: European Conference (ECML PKDD), Dublin, Ireland, 10–14 September 2018. [**Download**]({{< pdf "2019_PKDD_PBE" >}})
 4. Bing He, Dian Zhang, Siyuan Liu, Hao Liu, Dawei Han and Lionel M Ni. "Profiling Driver Behavior for Personalized Insurance Pricing and Maximal Profit", IEEE International Conference on Big Data (Big Data), Seattle, WA, USA, 10-13 December 2018. [**Download**]({{< pdf "2018_BigData_Driver_Profit" >}})
+5. Wenzhan Zhu, Weiling Zheng and Dian Zhang. "Beyond RSS: A PRR Aided RSS System to Localize Transceiver-Free Target in Sparse Wireless Networks", IEEE Global Communications Conference (GLOBECOM), Abu Dhabi, United Arab Emirates, 09-13 December 2018. [**Download**]({{< pdf "2018_GLOBECOM_Beyond_RSS >}})
 
 </font>
 
@@ -47,5 +48,6 @@ banner:
 3. Haizhou Guo, Dian Zhang, Landu Jiang, Kin-Wang Poon and Kezhong Lu. "ASTCN: An Attentive Spatial–Temporal Convolutional Network for Flow Prediction", IEEE Internet of Things Journal (IOTJ), vol.9, no. 5, pp. 3215-3225, 10 August 2021. [**Download**]({{< pdf "2021_IOTJ_ASTCN" >}})
 4. Dian Zhang, Wen Xie, Zexiong Liao, Wenzhan Zhu, Landu Jiang and Yongpan Zou. "Beyond RSS: A PRR and SNR Aided Localization System for Transceiver-Free Target in Sparse Wireless Networks", IEEE Transactions on Mobile Computing (TMC), vol. 21, no. 11, pp. 3866-3879, 03 March 2021. [**Download**]({{< pdf "2021_TMC_Beyond_RSS" >}})
 5. Yongpan Zou, Dan Wang, Shicong Hong, Rukhsana Ruby, Dian Zhang and Kaishun Wu. "A Low-Cost Smart Glove System for Real-Time Fitness Coaching", IEEE Internet of Things Journal (IOTJ), vol. 7, no. 8, pp. 7377-7391, 24 March 2020. [**Download**]({{< pdf "2020_IOTJ_Glove_Fitness" >}})
+6. Peng Xiang, Peng Ji and Dian Zhang. "Enhance RSS-Based Indoor Localization Accuracy by Leveraging Environmental Physical Features", Wireless Communications and Mobile Computing, Article ID 8956757, 09 Jul 2018.  [**Download**]({{< pdf "2018_WCMC_Enhance_RSS" >}})
   
 </font>
