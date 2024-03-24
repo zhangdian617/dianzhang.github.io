@@ -1,4 +1,4 @@
-{{- .Scratch.Set "basedir" "https://zhangdian617.github.io/site/content/publication/" -}}
+{{- .Scratch.Set "basedir" "/" -}}
 {{- .Scratch.Set "path" (.Get 0) -}}
 
 {{- if hasPrefix (.Scratch.Get "path") "/" -}}
