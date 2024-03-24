@@ -44,5 +44,7 @@ banner:
 1. Dian Zhang, Rujun Zhang, Haizhou Guo, Peng Xiang and Xiaonan Guo. "Cross-Technology Localization: Leveraging Commodity WiFi to Localize Non-WiFi Device", KSII Transactions on Internet and Information Systems (TIIS), vol. 15, no. 11, 1 Novermber 2021. [**Download**]({{< pdf "2021_KSII_Localization_wifi" >}})
 2. Landu Jiang, Wen Xie, Dian Zhang and Tao Gu. "Smart Diagnosis: Deep Learning Boosted Driver Inattention Detection and Abnormal Driving Prediction", IEEE Internet of Things Journal (IOTJ), vol.9, no. 6, pp. 4076-4089, 10 August 2021. [**Download**]({{< pdf "2021_IOTJ_Smart_diagnosis" >}})
 3. Haizhou Guo, Dian Zhang, Landu Jiang, Kin-Wang Poon and Kezhong Lu. "ASTCN: An Attentive Spatial–Temporal Convolutional Network for Flow Prediction", IEEE Internet of Things Journal (IOTJ), vol.9, no. 5, pp. 3215-3225, 10 August 2021. [**Download**]({{< pdf "2021_IOTJ_ASTCN" >}})
+4. Dian Zhang, Wen Xie, Zexiong Liao, Wenzhan Zhu, Landu Jiang and Yongpan Zou. "Beyond RSS: A PRR and SNR Aided Localization System for Transceiver-Free Target in Sparse Wireless Networks", IEEE Transactions on Mobile Computing (TMC), vol. 21, no. 11, pp. 3866-3879, 03 March 2021. [**Download**]({{< pdf "2021_TMC_Beyond_RSS" >}})
+5. Yongpan Zou, Dan Wang, Shicong Hong, Rukhsana Ruby, Dian Zhang and Kaishun Wu. "A Low-Cost Smart Glove System for Real-Time Fitness Coaching", IEEE Internet of Things Journal (IOTJ), vol. 7, no. 8, pp. 7377-7391, 24 March 2020. [**Download**]({{< pdf "2020_IOTG_Glove_Fitness" >}})
   
 </font>
