@@ -38,6 +38,6 @@ featured: true
 #   url: http://example.org
 
 url_pdf: '2021_KDD_MoCha.pdf'
-url_video: 'MoCha.mp4'
+url_video: 'https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3447548.3467114&file=MoCha.mp4'
 
 ---
