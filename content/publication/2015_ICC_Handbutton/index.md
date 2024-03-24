@@ -22,7 +22,7 @@ publication_types: ['conference']
 publication: In *IEEE International Conference on Communications*
 publication_short: In *ICC*
 
-abstract:Traditional radio-based gesture recognition approaches usually require the target to carry a device (e.g., an EMG sensor or an accelerometer sensor). However, such requirement cannot be satisfied in many applications. For example, in smart home, users want to control the light on/off by hand gesture, without carrying any device. To overcome this draw-back, in this paper, we propose two algorithms able to recognize the target gesture (mainly the human hand gesture) without carrying any device, based on just Radio Signal Strength Indicator (RSSI). Our platform utilizes only 6 telosB sensor nodes and is with a very easy deployment. Experiment results show that the successful recognition radio can reach around 80% in our system. 
+abstract: Traditional radio-based gesture recognition approaches usually require the target to carry a device (e.g., an EMG sensor or an accelerometer sensor). However, such requirement cannot be satisfied in many applications. For example, in smart home, users want to control the light on/off by hand gesture, without carrying any device. To overcome this draw-back, in this paper, we propose two algorithms able to recognize the target gesture (mainly the human hand gesture) without carrying any device, based on just Radio Signal Strength Indicator (RSSI). Our platform utilizes only 6 telosB sensor nodes and is with a very easy deployment. Experiment results show that the successful recognition radio can reach around 80% in our system. 
 tags: []
 
 # Display this page in the Featured widget?
