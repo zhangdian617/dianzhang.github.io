@@ -30,6 +30,7 @@ banner:
 7. Weiling Zheng and Dian Zhang. "[HandButton: Gesture Recognition of Transceiver-free Object by using Wireless Networks](2015_icc_handbutton/)", IEEE International Conference on Communications (ICC), London, UK, 2015, pp. 6640-6645, 08-12 June 2015. [**Download**]({{< pdf "2015_ICC_Handbutton" >}})
 8. Dian Zhang, Xiaoyan Jiang and Lionel M. Ni. "[Double Free: Measurement-Free Localization for Transceiver-Free Object](2014_icpp_double_free/)", 2014 43rd International Conference on Parallel Processing, Minneapolis, MN, USA, 09-12 September 2014. [**Download**]({{< pdf "2014_ICPP_Double_Free" >}})
 9. Rui Mao, Sheng Liu, Honglong Xu, Dian Zhang and Daniel P. Miranker. "[On Data Partitioning in Tree Structure Metric-space Indexes](2014_dasfaa_data_partitioning/)", Database Systems for Advanced Applications (DASFAA), Bali, Indonesia, 21-24 April 2014. [**Download**]({{< pdf "2014_DASFAA_Data_Partitioning" >}})
+10. Xiaonan Guo, Dian Zhang and Lionel M. Ni. "[Localizing Multiple Objects in an RF-based Dynamic Environment](2012_icdcs_localizing/)", IEEE 32nd International Conference on Distributed Computing Systems (ICDCS), Macau, China, 18-21 June 2012. [**Download**]({{< pdf "2012_icdcs_localizing" >}})
 
 </font>
 
@@ -62,5 +63,6 @@ banner:
 13. Yaobin He, Dian Zhang, Li Qi, Shengzhong Feng, Zhong Ming and Jianping Fan. "Adaptive Deployment Optimization for A Multi-layer Surveillance Network", Shenzhen Daxue Xuebao (Ligong Ban)/Journal of Shenzhen University Science and Engineering, vol. 31, no. 3, pp. 286-292, May 2014.
 14. Xiaonan Guo, Dian Zhang, Kaishun Wu and Lionel M. Ni. "[MODLoc: Localizing Multiple Objects in Dynamic Indoor Environment](2013_tpds_modloc/)", IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 25, no. 11, pp. 2969-2980, 12 November 2013. [**Download**]({{< pdf "2013_TPDS_MODLoc" >}})
 15. Dian Zhang, Kezhong Lu, Rui Mao, Yuhong Feng, Yunhuai Liu, Zhong Ming and Lionel M. Ni. "[Fine-Grained Localization for Multiple Transceiver-Free Objects by using RF-Based Technologies](2013_tpds_localization/)", IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 25, no. 6, pp. 1464-1475, 27 Septmber 2013. [**Download**]({{< pdf "2013_tpds_localization" >}})
+16. Dian Zhang, Yunhuai Liu, Xiaonan Guo and Lionel M. Ni. "[RASS: A Real-Time, Accurate, and Scalable System for Tracking Transceiver-Free Objects](2012_tpds_rass/)", IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 24, no. 5, pp. 996-1008, 01 May 2012. [**Download**]({{< pdf "2012_tpds_rass" >}})
   
 </font>
