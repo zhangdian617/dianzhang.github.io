@@ -1,4 +1,5 @@
-{{- .Scratch.Set "basedir" "/" -}}
+{{- .Scratch.Set "basedir" .Page.Site.BaseURL -}}
+{{- .Scratch.Add "basedir" "/" -}}
 {{- .Scratch.Set "path" (.Get 0) -}}
 {{- .Scratch.Add "basedir" (.Scratch.Get "path" | lower) -}}
 
