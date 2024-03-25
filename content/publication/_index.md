@@ -31,6 +31,7 @@ banner:
 8. Dian Zhang, Xiaoyan Jiang and Lionel M. Ni. "[Double Free: Measurement-Free Localization for Transceiver-Free Object](2014_icpp_double_free/)", 2014 43rd International Conference on Parallel Processing, Minneapolis, MN, USA, 09-12 September 2014. [**Download**]({{< pdf "2014_ICPP_Double_Free" >}})
 9. Rui Mao, Sheng Liu, Honglong Xu, Dian Zhang and Daniel P. Miranker. "[On Data Partitioning in Tree Structure Metric-space Indexes](2014_dasfaa_data_partitioning/)", Database Systems for Advanced Applications (DASFAA), Bali, Indonesia, 21-24 April 2014. [**Download**]({{< pdf "2014_DASFAA_Data_Partitioning" >}})
 10. Xiaonan Guo, Dian Zhang and Lionel M. Ni. "[Localizing Multiple Objects in an RF-based Dynamic Environment](2012_icdcs_localizing/)", IEEE 32nd International Conference on Distributed Computing Systems (ICDCS), Macau, China, 18-21 June 2012. [**Download**]({{< pdf "2012_icdcs_localizing" >}})
+11. Dian Zhang, Yunhuai Liu, Xiaonan Guo, Min Gao and Lionel M. Ni. "[On Distinguishing the Multiple Radio Paths in RSS-Based Ranging](2012_infocom_multiple_paths)", IEEE INFOCOM, pp. 2201-2209, Orlando, FL, USA, 25-30 March 2012. [**Download**]({{< pdf "2012_infocom_multiple_paths" >}})
 
 </font>
 
@@ -64,5 +65,6 @@ banner:
 14. Xiaonan Guo, Dian Zhang, Kaishun Wu and Lionel M. Ni. "[MODLoc: Localizing Multiple Objects in Dynamic Indoor Environment](2013_tpds_modloc/)", IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 25, no. 11, pp. 2969-2980, 12 November 2013. [**Download**]({{< pdf "2013_TPDS_MODLoc" >}})
 15. Dian Zhang, Kezhong Lu, Rui Mao, Yuhong Feng, Yunhuai Liu, Zhong Ming and Lionel M. Ni. "[Fine-Grained Localization for Multiple Transceiver-Free Objects by using RF-Based Technologies](2013_tpds_localization/)", IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 25, no. 6, pp. 1464-1475, 27 Septmber 2013. [**Download**]({{< pdf "2013_tpds_localization" >}})
 16. Dian Zhang, Yunhuai Liu, Xiaonan Guo and Lionel M. Ni. "[RASS: A Real-Time, Accurate, and Scalable System for Tracking Transceiver-Free Objects](2012_tpds_rass/)", IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 24, no. 5, pp. 996-1008, 01 May 2012. [**Download**]({{< pdf "2012_tpds_rass" >}})
+17. Kezhong Lu, Xiaohua Xiang, Dian Zhang, Rui Mao and Yuhong Feng. "[Localization Algorithm Based on Maximum a Posteriori in Wireless Sensor Networks](2011_ijdsn_localization/)", International Journal of Distributed Sensor Networks, vol. 8, no. 1, pp. 260302, 15 December 2011. [**Download**]({{< pdf "2011_ijdsn_localization" >}})
   
 </font>
