@@ -1,5 +1,5 @@
 ---
-title: 'Double Free:Measurement-Free Localization for Transceiver-Free Object'
+title: 'Double Free Measurement-Free Localization for Transceiver-Free Object'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
