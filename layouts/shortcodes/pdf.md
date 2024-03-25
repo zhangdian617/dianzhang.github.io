@@ -21,4 +21,4 @@
 {{- .Scratch.Add "basedir" (.Scratch.Get "path") -}}
 {{- .Scratch.Add "basedir" ".pdf" -}}
 
-{{- .Scratch.Get "basedir" | safeURL -}}
+{{- .Scratch.Get "basedir" | relURL -}}
