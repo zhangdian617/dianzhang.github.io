@@ -10,5 +10,5 @@
 {{- .Scratch.Add "basedir" (.Scratch.Get "path") -}}
 {{- .Scratch.Add "basedir" ".pdf" -}}
 
-<a href={{- .Scratch.Get "basedir" | relURL -}} /a>
+{{- .Scratch.Get "basedir" | relURL -}}
 
