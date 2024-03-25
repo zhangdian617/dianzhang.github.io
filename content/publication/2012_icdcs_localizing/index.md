@@ -17,7 +17,7 @@ doi: '10.1109/ICDCS.2012.49'
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 # journal, conference
-publication_types: ['journal']
+publication_types: ['conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Distributed Computing Systems*
