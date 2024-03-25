@@ -1,5 +1,5 @@
 {{- .Scratch.Set "path" (.Get 0) -}}
-{{- .Scratch.Set "basedir" (lower .Scratch.Get "path") -}}
+{{- .Scratch.Set "basedir" (.Scratch.Get "path" | lower) -}}
 
 {{- .Scratch.Add "basedir" "/" -}}
 {{- .Scratch.Add "basedir" (.Scratch.Get "path") -}}
