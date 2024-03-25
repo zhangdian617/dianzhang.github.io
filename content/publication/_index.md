@@ -28,6 +28,8 @@ banner:
 5. Wenzhan Zhu, Weiling Zheng and Dian Zhang. "Beyond RSS: A PRR Aided RSS System to Localize Transceiver-Free Target in Sparse Wireless Networks", IEEE Global Communications Conference (GLOBECOM), Abu Dhabi, United Arab Emirates, 09-13 December 2018. [**Download**]({{< pdf "2018_GLOBECOM_Beyond_RSS" >}})
 6. Xibo Zhou, Qiong Luo, Dian Zhang and Lionel M Ni. "Detecting Taxi Speeding from Sparse and Low-Sampled Trajectory Data", Web and Big Data: Second International Joint Conference (APWeb-WAIM) Part II 2 (pp. 214-222), Springer International Publishing, Macau, China, 23-25 July 2018. [**Download**]({{< pdf "2018_APWeb-WAIM_Taxi_Trajectory" >}})
 7. Weiling Zheng and Dian Zhang. "HandButton: Gesture Recognition of Transceiver-free Object by using Wireless Networks", IEEE International Conference on Communications (ICC), London, UK, 2015, pp. 6640-6645, 08-12 June 2015. [**Download**]({{< pdf "2015_ICC_Handbutton" >}})
+8. Dian Zhang, Xiaoyan Jiang and Lionel M Ni. "Double Free: Measurement-Free Localization for Transceiver-Free Object", 2014 43rd International Conference on Parallel Processing, Minneapolis, MN, USA, 09-12 September 2014. [**Download**]({{< pdf "2014_ICPP_Double_Free" >}})
+9. Rui Mao, Sheng Liu, Honglong Xu, Dian Zhang and Daniel P Miranker. "On Data Partitioning in Tree Structure Metric-space Indexes", Database Systems for Advanced Applications (DASFAA), Bali, Indonesia, 21-24 April 2014. [**Download**]({{< pdf "2014_DASFAA_Data_Partitioning" >}})
 
 </font>
 
@@ -55,6 +57,9 @@ banner:
 8. Rui Mao, Peng Xiang, Dian Zhang. "Precise transceiver-free localization in complex indoor environment", China Communications, vol. 13, no. 5, pp. 28-37, May 2016. [**Download**]({{< pdf "2016_CC_localization" >}})
 9. Dian Zhang and Weiling Zheng. "HandButton: Gesture Recognition of Transceiver-free Object by Using Wireless Networks", KSII Transactions on Internet and Information Systems (TIIS), vol. 10, no. 2, pp. 787-806, 29 February 2016. [**Download**]({{< pdf "2016_KSII_Handbutton" >}})
 10. Xuan Yang, Dian Zhang, Shuiyong Yao and Bo Wang. "A Fast Algorithm to Estimate Inverse Consistent Image Transformation based on Corresponding Landmarks", Computerized Medical Imaging and Graphics, vol. 15, pp. 84-98, October 2015. [**Download**]({{< pdf "2015_CMIG_Image_Landmarks" >}})
-11. Zhang Dian, Lu Kezhong and Mao Rui. "A Precise RFID Indoor Localization System with Sensor Network Assistance",  China Communications, vol. 12, no. 4, pp. 13-22, April 2015.  [**Download**]({{< pdf "2015_CC_RFID_localization" >}})
+11. Zhang Dian, Lu Kezhong and Rui Mao. "A Precise RFID Indoor Localization System with Sensor Network Assistance", China Communications, vol. 12, no. 4, pp. 13-22, April 2015.  [**Download**]({{< pdf "2015_CC_RFID_localization" >}})
+12. Gang Liu, Heng Zhang, Dian Zhang and Rui Mao. "Optimization of Linpack for Loongson 3B processor", Shenzhen Daxue Xuebao (Ligong Ban)/Journal of Shenzhen University Science and Engineering, vol. 31, no. 3, pp. 286-292, May 2014.
+13. Yaobin He, Dian Zhang, Li Qi, Shengzhong Feng, Zhong Ming and Jianping Fan. "Adaptive Deployment Optimization for A Multi-layer Surveillance Network", Shenzhen Daxue Xuebao (Ligong Ban)/Journal of Shenzhen University Science and Engineering, vol. 31, no. 3, pp. 286-292, May 2014.
+14. 
   
 </font>
